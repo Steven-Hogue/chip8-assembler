@@ -1,6 +1,6 @@
 # CHIP-8/SUPER-CHIP Assembler
 
-This is a simple assembly -> byte code compiler for a mostly (see differences [at the bottom](#contributing)) standard CHIP-8 or SUPER-CHIP emulator.
+This is a simple assembly -> byte code compiler for a mostly (see differences [at the bottom](#differences-from-standard-CHIP-8)) standard CHIP-8 or SUPER-CHIP emulator.
 
 ## **Note**:
 
@@ -10,7 +10,7 @@ If you are looking for an accurate CHIP-8 assembler, I recommend looking for ano
 
 ## Resources
 
-This was written entirely by me in Rust, but is based largely on [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#Fx75).
+This was written entirely by me in Rust, but is based largely on [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM).
 
 I also build the emulator I tested with initially following the fantastic book [from Aquova](https://github.com/aquova/chip8-book).
 
