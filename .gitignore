@@ -1,0 +1,11 @@
+debug/
+target/
+
+Cargo.lock
+
+**/*.rs.bk
+
+*.pdb
+
+*.ch8
+*.bin
